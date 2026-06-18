@@ -1,8 +1,8 @@
 class Greenlight < Formula
   desc "Local git proxy that validates code before pushing upstream"
   homepage "https://github.com/kinleyrabgay/greenlight"
-  url "https://github.com/kinleyrabgay/greenlight/archive/refs/tags/v0.2.3.tar.gz"
-  sha256 "23d9a2321d3e09560820ec945d108b8f2053cdd1329b71986067c04602c4605d"
+  url "https://github.com/kinleyrabgay/greenlight/archive/refs/tags/v0.2.4.tar.gz"
+  sha256 "ef33b4ef152408a96b3f8899836ae3c4aa22c8f29169a9163438756be05d1905"
   license "MIT"
   head "https://github.com/kinleyrabgay/greenlight.git", branch: "main"
 
